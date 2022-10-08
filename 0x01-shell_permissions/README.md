@@ -9,3 +9,4 @@
 8. James Bond
 9. John Doe
 10. Mirror permission
+11. Directory permission
