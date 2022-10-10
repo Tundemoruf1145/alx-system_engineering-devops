@@ -3,3 +3,4 @@
 2. Let's display a file
 3. What about 2
 4. last lines of a file
+5. First lines of a file
