@@ -8,3 +8,4 @@
 7. Files-7
 8. Save current
 9. Duplicate last line
+10. No more Js
