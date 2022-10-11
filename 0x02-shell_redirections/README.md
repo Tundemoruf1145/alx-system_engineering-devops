@@ -7,3 +7,4 @@
 6. Line #2
 7. Files-7
 8. Save current
+9. Duplicate last line
