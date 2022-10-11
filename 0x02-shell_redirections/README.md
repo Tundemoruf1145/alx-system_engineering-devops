@@ -6,3 +6,4 @@
 5. First lines of a file
 6. Line #2
 7. Files-7
+8. Save current
