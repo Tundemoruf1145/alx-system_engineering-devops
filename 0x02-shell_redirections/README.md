@@ -9,3 +9,5 @@
 8. Save current
 9. Duplicate last line
 10. No more Js
+11. Directories counts
+12. Whats new
