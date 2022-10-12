@@ -14,3 +14,8 @@
 13. The unique
 14. It must be in that file
 15. Count that word
+16. What's next?
+17. I Hate bin
+18. Letters only please
+19. A to Z
+20. Without C, you would live in hiago
